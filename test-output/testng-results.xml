@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-09T20:35:17 PST" name="givelifySignIn_V1" finished-at="2020-12-09T20:37:39 PST" duration-ms="142106">
+    <groups>
+    </groups>
+    <test started-at="2020-12-09T20:35:17 PST" name="Login Test" finished-at="2020-12-09T20:37:39 PST" duration-ms="142106">
+      <class name="givelify_SignIn_testcases.TC_09">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:givelify_SignIn_testcases.TC_09@5cee5251]" started-at="2020-12-09T20:36:46 PST" name="setup" finished-at="2020-12-09T20:36:52 PST" duration-ms="6170" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ResetPasswordTest()[pri:0, instance:givelify_SignIn_testcases.TC_09@5cee5251]" started-at="2020-12-09T20:36:52 PST" name="ResetPasswordTest" finished-at="2020-12-09T20:36:59 PST" duration-ms="6431" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ResetPasswordTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:givelify_SignIn_testcases.TC_09@5cee5251]" started-at="2020-12-09T20:36:59 PST" name="tearDown" finished-at="2020-12-09T20:36:59 PST" duration-ms="641" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- givelify_SignIn_testcases.TC_09 -->
+      <class name="givelify_SignIn_testcases.TC_08">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:givelify_SignIn_testcases.TC_08@7adda9cc]" started-at="2020-12-09T20:36:36 PST" name="setup" finished-at="2020-12-09T20:36:42 PST" duration-ms="6407" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="FgtPwdFieldValidation()[pri:0, instance:givelify_SignIn_testcases.TC_08@7adda9cc]" started-at="2020-12-09T20:36:42 PST" name="FgtPwdFieldValidation" finished-at="2020-12-09T20:36:45 PST" duration-ms="3319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FgtPwdFieldValidation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:givelify_SignIn_testcases.TC_08@7adda9cc]" started-at="2020-12-09T20:36:45 PST" name="tearDown" finished-at="2020-12-09T20:36:46 PST" duration-ms="622" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- givelify_SignIn_testcases.TC_08 -->
+      <class name="givelify_SignIn_testcases.TC_07">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:givelify_SignIn_testcases.TC_07@7c0c77c7]" started-at="2020-12-09T20:36:26 PST" name="setup" finished-at="2020-12-09T20:36:32 PST" duration-ms="6229" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ForgotpwdTest()[pri:0, instance:givelify_SignIn_testcases.TC_07@7c0c77c7]" started-at="2020-12-09T20:36:32 PST" name="ForgotpwdTest" finished-at="2020-12-09T20:36:35 PST" duration-ms="3155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ForgotpwdTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:givelify_SignIn_testcases.TC_07@7c0c77c7]" started-at="2020-12-09T20:36:35 PST" name="tearDown" finished-at="2020-12-09T20:36:36 PST" duration-ms="627" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- givelify_SignIn_testcases.TC_07 -->
+      <class name="givelify_SignIn_testcases.TC_06">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:givelify_SignIn_testcases.TC_06@48aaecc3]" started-at="2020-12-09T20:36:16 PST" name="setup" finished-at="2020-12-09T20:36:21 PST" duration-ms="5720" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="FormvalidationTest()[pri:0, instance:givelify_SignIn_testcases.TC_06@48aaecc3]" started-at="2020-12-09T20:36:21 PST" name="FormvalidationTest" finished-at="2020-12-09T20:36:25 PST" duration-ms="3659" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FormvalidationTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:givelify_SignIn_testcases.TC_06@48aaecc3]" started-at="2020-12-09T20:36:25 PST" name="tearDown" finished-at="2020-12-09T20:36:26 PST" duration-ms="631" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- givelify_SignIn_testcases.TC_06 -->
+      <class name="givelify_SignIn_testcases.TC_05">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:givelify_SignIn_testcases.TC_05@60d8c9b7]" started-at="2020-12-09T20:36:05 PST" name="setup" finished-at="2020-12-09T20:36:11 PST" duration-ms="6318" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="UnregLoginTest()[pri:0, instance:givelify_SignIn_testcases.TC_05@60d8c9b7]" started-at="2020-12-09T20:36:11 PST" name="UnregLoginTest" finished-at="2020-12-09T20:36:15 PST" duration-ms="3638" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UnregLoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:givelify_SignIn_testcases.TC_05@60d8c9b7]" started-at="2020-12-09T20:36:15 PST" name="tearDown" finished-at="2020-12-09T20:36:16 PST" duration-ms="634" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- givelify_SignIn_testcases.TC_05 -->
+      <class name="givelify_SignIn_testcases.TC_04">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:givelify_SignIn_testcases.TC_04@3967e60c]" started-at="2020-12-09T20:35:55 PST" name="setup" finished-at="2020-12-09T20:36:01 PST" duration-ms="6057" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="InvalidLoginTest()[pri:0, instance:givelify_SignIn_testcases.TC_04@3967e60c]" started-at="2020-12-09T20:36:01 PST" name="InvalidLoginTest" finished-at="2020-12-09T20:36:04 PST" duration-ms="3528" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidLoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:givelify_SignIn_testcases.TC_04@3967e60c]" started-at="2020-12-09T20:36:04 PST" name="tearDown" finished-at="2020-12-09T20:36:05 PST" duration-ms="774" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- givelify_SignIn_testcases.TC_04 -->
+      <class name="givelify_SignIn_testcases.TC_03">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:givelify_SignIn_testcases.TC_03@20d28811]" started-at="2020-12-09T20:35:38 PST" name="setup" finished-at="2020-12-09T20:35:44 PST" duration-ms="5603" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="multipleLoginTest()[pri:0, instance:givelify_SignIn_testcases.TC_03@20d28811]" started-at="2020-12-09T20:35:44 PST" name="multipleLoginTest" finished-at="2020-12-09T20:35:54 PST" duration-ms="10314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multipleLoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:givelify_SignIn_testcases.TC_03@20d28811]" started-at="2020-12-09T20:35:54 PST" name="tearDown" finished-at="2020-12-09T20:35:55 PST" duration-ms="632" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- givelify_SignIn_testcases.TC_03 -->
+      <class name="givelify_SignIn_testcases.TC_02">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:givelify_SignIn_testcases.TC_02@3cc2931c]" started-at="2020-12-09T20:35:28 PST" name="setup" finished-at="2020-12-09T20:35:34 PST" duration-ms="5614" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="logSessionTest()[pri:0, instance:givelify_SignIn_testcases.TC_02@3cc2931c]" started-at="2020-12-09T20:35:34 PST" name="logSessionTest" finished-at="2020-12-09T20:35:37 PST" duration-ms="3687" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logSessionTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:givelify_SignIn_testcases.TC_02@3cc2931c]" started-at="2020-12-09T20:35:37 PST" name="tearDown" finished-at="2020-12-09T20:35:38 PST" duration-ms="625" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- givelify_SignIn_testcases.TC_02 -->
+      <class name="givelify_SignIn_testcases.TC_12">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:givelify_SignIn_testcases.TC_12@4b14c583]" started-at="2020-12-09T20:37:25 PST" name="setup" finished-at="2020-12-09T20:37:32 PST" duration-ms="6625" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ResetPwdCancelTest()[pri:0, instance:givelify_SignIn_testcases.TC_12@4b14c583]" started-at="2020-12-09T20:37:32 PST" name="ResetPwdCancelTest" finished-at="2020-12-09T20:37:38 PST" duration-ms="6171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ResetPwdCancelTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:givelify_SignIn_testcases.TC_12@4b14c583]" started-at="2020-12-09T20:37:38 PST" name="tearDown" finished-at="2020-12-09T20:37:39 PST" duration-ms="628" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- givelify_SignIn_testcases.TC_12 -->
+      <class name="givelify_SignIn_testcases.TC_01">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:givelify_SignIn_testcases.TC_01@59d016c9]" started-at="2020-12-09T20:35:17 PST" name="setup" finished-at="2020-12-09T20:35:24 PST" duration-ms="7017" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ValidLoginTest()[pri:0, instance:givelify_SignIn_testcases.TC_01@59d016c9]" started-at="2020-12-09T20:35:24 PST" name="ValidLoginTest" finished-at="2020-12-09T20:35:27 PST" duration-ms="3647" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidLoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:givelify_SignIn_testcases.TC_01@59d016c9]" started-at="2020-12-09T20:35:27 PST" name="tearDown" finished-at="2020-12-09T20:35:28 PST" duration-ms="625" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- givelify_SignIn_testcases.TC_01 -->
+      <class name="givelify_SignIn_testcases.TC_11">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:givelify_SignIn_testcases.TC_11@5c909414]" started-at="2020-12-09T20:37:13 PST" name="setup" finished-at="2020-12-09T20:37:18 PST" duration-ms="5611" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="RestPwdFormValidation()[pri:0, instance:givelify_SignIn_testcases.TC_11@5c909414]" started-at="2020-12-09T20:37:18 PST" name="RestPwdFormValidation" finished-at="2020-12-09T20:37:25 PST" duration-ms="6385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestPwdFormValidation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:givelify_SignIn_testcases.TC_11@5c909414]" started-at="2020-12-09T20:37:25 PST" name="tearDown" finished-at="2020-12-09T20:37:25 PST" duration-ms="642" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- givelify_SignIn_testcases.TC_11 -->
+      <class name="givelify_SignIn_testcases.TC_10">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:givelify_SignIn_testcases.TC_10@433d61fb]" started-at="2020-12-09T20:36:59 PST" name="setup" finished-at="2020-12-09T20:37:06 PST" duration-ms="6507" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="UnregEmailResetPwdTest()[pri:0, instance:givelify_SignIn_testcases.TC_10@433d61fb]" started-at="2020-12-09T20:37:06 PST" name="UnregEmailResetPwdTest" finished-at="2020-12-09T20:37:12 PST" duration-ms="6532" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UnregEmailResetPwdTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:givelify_SignIn_testcases.TC_10@433d61fb]" started-at="2020-12-09T20:37:12 PST" name="tearDown" finished-at="2020-12-09T20:37:13 PST" duration-ms="624" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- givelify_SignIn_testcases.TC_10 -->
+    </test> <!-- Login Test -->
+  </suite> <!-- givelifySignIn_V1 -->
+</testng-results>
